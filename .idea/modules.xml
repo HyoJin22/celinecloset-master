@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/celinecloset-master/celinecloset.iml" filepath="$PROJECT_DIR$/celinecloset-master/celinecloset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/celinecloset-master.iml" filepath="$PROJECT_DIR$/.idea/celinecloset-master.iml" />
+    </modules>
+  </component>
+</project>
